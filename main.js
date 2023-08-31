@@ -1,0 +1,7 @@
+//CALCULE LA EDAD DE UNA PERSONA
+
+let edad=20
+
+if (edad>30) {
+    console.log("Mayor de edad");
+}
