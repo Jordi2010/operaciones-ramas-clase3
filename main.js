@@ -8,4 +8,4 @@ if (edad>30) {
     console.log("Menor de edad");
 }
 
-let objeto={}
+let objeto=["Nombre", "Apellido", "Edad"]
