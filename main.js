@@ -7,3 +7,5 @@ if (edad>30) {
 }else{
     console.log("Menor de edad");
 }
+
+let objeto={}
